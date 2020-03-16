@@ -12,17 +12,16 @@ quanX图标
 
 可参考Qure项目进行 远程图标 和 本地图标 使用。
 
-由于植物及僵尸命名繁琐，故使用字母和数字进行命名，请参考效果图进行选择
+由于本人是手机党，找图片，转换格式，上传github，quanX测试都需要时间，更新会比较慢，但是经量给予大家好看的图标，谢谢大家支持，多多订阅。多多点赞 请参考效果图进行选择
 
 例如：
 
 图标名称.png
 
-telegram.png
+Telegram.png
 
-远程修改地址img-url=https://raw.githubusercontent.com/Aoyt520/jiumeiquanX/master/quanX/telegram.png
-
-免责声明
+远程修改地址img-url=https://raw.githubusercontent.com/Aoyt520/jiumeiquanX/master/quanX/Telegram.png
+请注意图标名称大小写  免责声明
 
 jiumeiquanX项目内所涉及的相关元素、图标仅作为测试和学习使用；
 
