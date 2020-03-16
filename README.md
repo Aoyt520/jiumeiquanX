@@ -1,4 +1,4 @@
-# jiumeiquanX
+# 玖妹ぬ quanX
 quanX图标
 为「QuantumultX」持续更新的「icons8」策略组图标
 
