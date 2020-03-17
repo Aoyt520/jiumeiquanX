@@ -30,3 +30,4 @@ jiumeiquanX项目内所涉及的相关元素、图标仅作为测试和学习使
 本人不对jiumeiquanX项目承担任何责任；
 
 任何人通过任何方式登陆本网站或直接、间接使用jiumeiquanX项目相关资源，均应仔细阅读本声明
+![quanx](https://raw.githubusercontent.com/Aoyt520/Script/Pv/IMG_4536.JPG "quanx")
