@@ -21,7 +21,14 @@ quanX图标
 Telegram.png
 
 远程修改地址img-url=https://raw.githubusercontent.com/Aoyt520/jiumeiquanX/master/quanX/Telegram.png
-请注意图标名称大小写  免责声明
+请注意图标名称大小写  
+
+订阅图标仓库：
+```
+https://raw.githubusercontent.com/Aoyt520/jiumeiquanX/master/JiuMei-icon.json
+```
+
+### 免责声明
 
 jiumeiquanX项目内所涉及的相关元素、图标仅作为测试和学习使用；
 
